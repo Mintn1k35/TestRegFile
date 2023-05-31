@@ -1,0 +1,10 @@
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+vlog -work MyWork -sv tb.sv -l vlog.log 
+-- Compiling module RegFile
+-- Compiling interface ifDut
+-- Compiling package tb_sv_unit
+-- Compiling interface ifDut
+-- Compiling module tb
+
+Top level modules:
+	tb

@@ -1,0 +1,40 @@
+# vsim -l vsim.log -c -novopt MyWork.tb 
+# Loading sv_std.std
+# Loading MyWork.tb_sv_unit
+# Loading MyWork.tb
+# Loading MyWork.ifDut
+# Loading MyWork.RegFile
+# time:               692000, Pass rd16
+# time:               692000, Pass rd 0
+# time:               712000, Pass rd17
+# time:               712000, Pass rd 1
+# time:               732000, Pass rd18
+# time:               732000, Pass rd 2
+# time:               752000, Pass rd19
+# time:               752000, Pass rd 3
+# time:               772000, Pass rd20
+# time:               772000, Pass rd 4
+# time:               792000, Pass rd21
+# time:               792000, Pass rd 5
+# time:               812000, Pass rd22
+# time:               812000, Pass rd 6
+# time:               832000, Pass rd23
+# time:               832000, Pass rd 7
+# time:               852000, Pass rd24
+# time:               852000, Pass rd 8
+# time:               872000, Pass rd25
+# time:               872000, Pass rd 9
+# time:               892000, Pass rd26
+# time:               892000, Pass rd10
+# time:               912000, Pass rd27
+# time:               912000, Pass rd11
+# time:               932000, Pass rd28
+# time:               932000, Pass rd12
+# time:               952000, Pass rd29
+# time:               952000, Pass rd13
+# time:               972000, Pass rd30
+# time:               972000, Pass rd14
+# time:               992000, Pass rd31
+# time:               992000, Pass rd15
+# ** Note: $finish    : Generator.sv(46)
+#    Time: 1010 ns  Iteration: 1  Instance: /tb

@@ -1,0 +1,103 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\User\Desktop\amen
+YifDut
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z2 DXx4 work 10 tb_sv_unit 0 22 _aWnh0I<Vol8?=1`0LnaP1
+Z3 V4[>@?d1`]:OIl?YzZ>2iT1
+r1
+!s85 0
+31
+!i10b 1
+Z4 !s100 _XAlWA3S^khSziSTC;>l31
+Z5 I>Nj>OmzJU36zU6Bj0<Hik0
+Z6 !s105 tb_sv_unit
+S1
+Z7 dC:\Users\User\Desktop\amen
+Z8 w1685092060
+Z9 FifDut.sv
+Z10 8tb.sv
+Z11 Ftb.sv
+L0 1
+Z12 OV;L;10.1d;51
+Z13 !s108 1685169946.889000
+Z14 !s107 Monitor.sv|ifDut.sv|Generator.sv|RegFile.v|tb.sv|
+Z15 !s90 -work|MyWork|-sv|tb.sv|-l|vlog.log|
+!s101 -O0
+Z16 o-work MyWork -sv -O0
+Z17 nif@dut
+vRegFile
+R1
+!i10b 1
+Z18 !s100 @gAM62@;O@jIf6zeE;bC;3
+Z19 Ic>25<3L@zU9?K?HB3=O7n3
+Z20 V94@ic=0Ud58cSg>dO?m<B0
+R6
+S1
+R7
+R8
+Z21 FRegFile.v
+R10
+R11
+L0 1
+R12
+r1
+!s85 0
+31
+R13
+R14
+R15
+!s101 -O0
+R16
+Z22 n@reg@file
+vtb
+R1
+R2
+Z23 V0WBH2GYOfR1UXV`ce;Y:W1
+r1
+!s85 0
+31
+!i10b 1
+Z24 !s100 aEO?gf>NV;ne=Xo;ojiZF3
+Z25 IIciL9z6?:hJ^h<]OeB13k0
+R6
+S1
+R7
+R8
+R10
+R11
+L0 6
+R12
+R13
+R14
+R15
+!s101 -O0
+R16
+Xtb_sv_unit
+R1
+Z26 V_aWnh0I<Vol8?=1`0LnaP1
+r1
+!s85 0
+31
+!i10b 1
+Z27 !s100 VO5GL`@7BjJoIOVj?oRD@1
+Z28 I_aWnh0I<Vol8?=1`0LnaP1
+!i103 1
+S1
+R7
+w1685100774
+R10
+R11
+R21
+Z29 FGenerator.sv
+R9
+Z30 FMonitor.sv
+L2 2
+R12
+R13
+R14
+R15
+!s101 -O0
+R16
